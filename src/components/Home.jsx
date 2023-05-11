@@ -1,7 +1,6 @@
 import React from 'react';
 import Category from './Category';
 import JobInfo from './JobInfo';
-
 const Home = () => {
     return (
         <div className='md:px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl'>
@@ -14,7 +13,7 @@ const Home = () => {
                     <button className='btn rounded bg-purple-500 md:px-4 md:py-3 px-1 py-1 text-white font-bold border-0'>Get Started</button>
                 </div>
                 <div>
-                    <img src="/public/assets/All Images/P3OLGJ1 copy 1.png" alt="" />
+                    <img src="https://i.ibb.co/nb3yHSn/P3-OLGJ1-copy-1.png" alt="P3-OLGJ1-copy-1" border="0" />
                 </div>
             </section>
             <div className="text-center pt-20 pb-8 font-bold">

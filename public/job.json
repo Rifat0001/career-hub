@@ -2,7 +2,7 @@
     {
         "id": "623853b2614ad5aba311fdd1",
         "index": 0,
-        "company_logo": "/public/assets/Logo/google-1-1 1-1.png",
+        "company_logo": "https://i.ibb.co/zXDQBdS/google-1-1-1.png",
         "job_title": "Technical Database Engineer",
         "company_name": "Google LLC",
         "job_type": "Remote",
@@ -20,7 +20,7 @@
     {
         "id": "623853b2578e9e6ad1ae0dd5",
         "index": 1,
-        "company_logo": "/public/assets/Logo/netflix-4 1.png",
+        "company_logo": "https://i.ibb.co/jzbMVbh/netflix-4-1.png",
         "job_title": "Senior Product Designer",
         "company_name": "Netflix",
         "job_type": "Onsite",
@@ -38,7 +38,7 @@
     {
         "id": "623853b21fb149d2ee7b76c7",
         "index": 2,
-        "company_logo": "/public/assets/Logo/tesla-9 1.png",
+        "company_logo": "https://i.ibb.co/b726PpQ/tesla-9-1.png",
         "job_title": "Software Engineer",
         "company_name": "Tesla",
         "job_type": "Remote",
@@ -56,7 +56,7 @@
     {
         "id": "623853b2e91c8de578c9245e",
         "index": 3,
-        "company_logo": "/public/assets/Logo/google-1-1 1-1.png",
+        "company_logo": "https://i.ibb.co/zXDQBdS/google-1-1-1.png",
         "job_title": "Full Stack Developer",
         "company_name": "Google LLC",
         "job_type": "Remote",
@@ -74,7 +74,7 @@
     {
         "id": "623853b2239582e48409ccc6",
         "index": 4,
-        "company_logo": "/public/assets/Logo/",
+        "company_logo": "https://i.ibb.co/zRmZCjG/Career-Hub.png",
         "job_title": "React Developer",
         "company_name": "CareerHub",
         "job_type": "Onsite",
@@ -92,7 +92,7 @@
     {
         "id": "623853b2cdda0d5bc294f791",
         "index": 5,
-        "company_logo": "/public/assets/Logo/Group 10021.png",
+        "company_logo": "https://i.ibb.co/TLDx9rx/Group-10021.png",
         "job_title": "WordPress Developer",
         "company_name": "AirBNB",
         "job_type": "Onsite",
