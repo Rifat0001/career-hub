@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App.jsx';
+import { jobsAndDetailData } from "./loaders/getjob&detaildata.js";
 import './index.css';
 import {
   createBrowserRouter,
@@ -41,7 +42,8 @@ const router = createBrowserRouter([
       },
       {
         path: 'appliedjob',
-        element: <AppliedJob></AppliedJob>
+        element: <AppliedJob></AppliedJob>,
+        loader: jobsAndDetailData
       },
       {
         path: '*',
