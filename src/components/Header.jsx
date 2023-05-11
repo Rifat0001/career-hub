@@ -13,7 +13,7 @@ const Header = () => {
           className="inline-flex items-center"
         >
           <span className="ml-2 text-2xl font-bold tracking-wide text-purple-800 ">
-            JobHunter
+            DreamJob
           </span>
         </Link>
         <ul className="items-center hidden space-x-8 lg:flex justify-between">

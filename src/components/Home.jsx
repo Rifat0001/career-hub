@@ -22,11 +22,7 @@ const Home = () => {
           </Link>
         </div>
         <div className="text-center">
-          <img
-            src="\All Images\P3OLGJ1 copy 1.png"
-            alt=""
-            className="text-center"
-          />
+          <img src="https://i.ibb.co/nb3yHSn/P3-OLGJ1-copy-1.png" alt="P3-OLGJ1-copy-1" border="0" />
         </div>
       </section>
       <div className="text-center pt-20 pb-8 font-bold">
@@ -39,7 +35,7 @@ const Home = () => {
         <p>Explore thousands of job opportunities with all the information you need. Its your future</p>
       </div>
       <JobDetails />
-      
+
     </div>
   );
 };
