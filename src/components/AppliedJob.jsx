@@ -29,14 +29,14 @@ const AppliedJOb = () => {
                 <div className="text-end py-7">
                     <button
                         type="button"
-                        className="btn-primary"
+                        className="rounded bg-purple-500 md:px-4 md:py-3 px-1 py-1 text-white font-bold me-2"
                         onClick={handleRemoteJobsClick}
                     >
                         Remote
                     </button>
                     <button
                         type="button"
-                        className="btn-primary"
+                        className="rounded bg-purple-500 md:px-4 md:py-3 px-1 py-1 text-white font-bold"
                         onClick={handleOnSiteJobsClick}
                     >
                         Onsite
@@ -125,7 +125,7 @@ const AppliedJOb = () => {
                                         </div>
                                         <p className="text-right md:flex-none">
                                             <Link to={`../job/${job.id}`}>
-                                                <button type="button" className="btn-primary">
+                                                <button type="button" className="rounded bg-purple-500 md:px-4 md:py-3 px-1 py-1 text-white font-bold">
                                                     View Details
                                                 </button>
                                             </Link>
