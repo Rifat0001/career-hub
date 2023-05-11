@@ -38,9 +38,15 @@ const Header = () => {
             </NavLink>
           </li>
           <li>
-            <Link to="/jobs" aria-label="Jobs" title="Jobs">
-              <div className="relative py-3">Applied Jobs</div>
-            </Link>
+            <NavLink
+              to="/jobs"
+              aria-label="Applied Jobs"
+              title="Applied Jobs"
+              className={({ isActive }) => (isActive ? "active" : "default")}
+            >
+              Applied Jobs
+            </NavLink>
+
           </li>
           <li>
             <NavLink
